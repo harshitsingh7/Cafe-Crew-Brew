@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.cafecrewbrew.app",
+  "appName": "Cafe Crew Brew",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

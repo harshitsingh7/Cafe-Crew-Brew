@@ -1,0 +1,8 @@
+{
+  "name": "Cafe Crew Brew",
+  "description": "An elegant, modern coffee shop experience focused on community and empowerment. Features a dynamic menu and an atmospheric gallery.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
